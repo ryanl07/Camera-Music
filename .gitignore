@@ -1,0 +1,10 @@
+# Claude Code
+CLAUDE.md
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
